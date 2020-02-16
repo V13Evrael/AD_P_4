@@ -1,0 +1,10 @@
+#
+# Generated with Matisse Schema Definition Language 9.1.12
+# Generation date: Sun Feb 09 22:49:15 2020
+#
+# Mapping of Java classes and indexes to the corresponding database schema objects
+#
+market.Empresa = market.Empresa
+market.Producto = market.Producto
+market.App = market.App
+market.Web = market.Web
